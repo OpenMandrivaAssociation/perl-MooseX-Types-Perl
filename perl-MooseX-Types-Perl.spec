@@ -15,7 +15,8 @@ BuildRequires: perl(MooseX::Types)
 BuildRequires: perl(MooseX::Types::Moose)
 BuildRequires: perl(Params::Util)
 BuildRequires: perl(Test::More)
-BuildRequires: perl(version)
+BuildRequires: perl(version) >= 1:0.820.0
+
 BuildArch: noarch
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}
 
