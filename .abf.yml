@@ -1,4 +1,5 @@
 removed_sources:
   MooseX-Types-Perl-0.101340.tar.gz: fcab64093599e78d221d94173a5b4a1754a6a83d
-sources:
   MooseX-Types-Perl-0.101342.tar.gz: c2a3319c3e38bba4cf5d30e59f93585e640802a5
+sources:
+  MooseX-Types-Perl-0.101343.tar.gz: 44378c6053a6e9c6929d36ad40da7127472f90e4
