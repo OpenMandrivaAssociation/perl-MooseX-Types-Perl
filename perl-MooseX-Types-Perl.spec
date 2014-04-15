@@ -5,6 +5,7 @@ Version:	%perl_convert_version %{upstream_version}
 Release:	1
 
 Summary:	Moose types that check against Perl syntax
+
 License:	GPL+ or Artistic
 Group:		Development/Perl
 Url:		http://search.cpan.org/dist/%{upstream_name}
@@ -16,6 +17,7 @@ BuildRequires:	perl(MooseX::Types::Moose)
 BuildRequires:	perl(Params::Util)
 BuildRequires:	perl(Test::More)
 BuildRequires:	perl(Module::Implementation)
+BuildRequires:  perl(namespace::autoclean)
 
 BuildArch:	noarch
 
